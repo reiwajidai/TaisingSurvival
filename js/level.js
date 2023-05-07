@@ -191,10 +191,10 @@ function addArrows(){
 **/
 const flowChartData = [
     {x:50, y:10, id: "E60-BE", text: "混沌初开", img: "", next: ["level-E6-second"]},
-    {x:50, y:35, id: "level-E6-second", text: "宫墙绿柳红砂 2", img: "./assets/gallery/E6_end_brick.png", next: ["level-E6-brick", "level-E6-hermit", "level-E6-fire"]},
+    {x:50, y:35, id: "level-E6-second", text: "宫墙绿柳红砂", img: "./assets/gallery/E6_end_brick.png", next: ["level-E6-brick", "level-E6-hermit", "level-E6-fire"]},
     {x:23, y:60, id: "level-E6-brick", text: "重蹈覆辙", img: "./assets/gallery/E6_end_brick.png", next: null},
     {x:50, y:60, id: "level-E6-hermit", text: "拒不配合", img: "./assets/gallery/E6_end_hermit.png", next: null},
-    {x:76, y:60, id: "level-E6-fire", text: "推翻太监", img: "./assets/gallery/E6_end_fire.png", next: null}
+    {x:76, y:60, id: "level-E6-fire", text: "推翻验处", img: "./assets/gallery/E6_end_fire.png", next: null}
 ];
 const buttonWidthRatio = 20;
 const buttonHeightRatio = 15;
