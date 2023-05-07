@@ -40,7 +40,7 @@ monogatari.action ('message').messages ({
   },
 
   'Ending-E6true': {
-    title: '结局：火烧太监所',
+    title: '结局：火烧蛊虫',
     subtitle: '野火烧不尽，春风吹又生。',
     body: `
       <p>那宫墙依旧森然矗立，可你们却在其中建立了一方自由的天地。或许有一天，你们也能够改变整个帝国的命数。</p>
@@ -69,7 +69,7 @@ monogatari.action ('message').messages ({
   },
 
   'E6_cgunlock_set_fire': {
-    title: '解锁画廊：火烧太监所',
+    title: '解锁画廊：火烧蛊虫',
     subtitle: '',
     body: `
       <p>大火烧尽的是太监所的贞洁字纸，点燃的却是你们渴望的心。</p>
