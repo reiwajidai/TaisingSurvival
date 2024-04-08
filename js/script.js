@@ -294,12 +294,20 @@ monogatari.$('show-gallery', 'nvl <gallery-screen class="animated active vertica
 
 monogatari.script ({
 	// The game starts here.
-	'Start': [
-		'jump E60-BE',
-	],
-
-	'ending': [
-		'end',
-	],
-	
+	'简体中文':{
+		'Start': [
+			'jump E60-BE',
+		],
+		'ending': [
+			'end',
+		],
+	},
+	'繁體中文':{
+		'Start': [
+			'jump E60-BE',
+		],
+		'ending': [
+			'end',
+		],
+	},
 });

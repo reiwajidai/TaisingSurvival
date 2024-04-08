@@ -7,6 +7,9 @@ class LevelScreen extends Monogatari.ScreenComponent {
         this.engine.translation('简体中文', {
 			Level: '开始游戏'
 		});
+        this.engine.translation('繁體中文', {
+			Level: '開始遊戲'
+		});
         return Promise.resolve ();
     }
 
