@@ -136,7 +136,7 @@ monogatari.settings({
 monogatari.preferences ({
 
 	// Initial Language for Multilanguage Games or for the Default GUI Language.
-	'Language': '简体中文',
+	'Language': '繁體中文',
 
 	// Initial Volumes from 0.0 to 1.
 	'Volume': {
